@@ -1,0 +1,20 @@
+ *{
+        margin: 0%;
+        padding: 0%;
+    }
+    .top {
+        max-width: 100%;
+    }
+    .mensagem {
+        max-width: 100%;
+
+    }
+    .h1{
+        width: 50px;
+
+    }
+    .mensagem img {
+        max-width: 100%;
+
+    }
+   
